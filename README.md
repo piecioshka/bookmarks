@@ -5,7 +5,6 @@
 * <https://www.youtube.com/watch?v=7_LPdttKXPc> - Jak działa internet?
 * <https://www.youtube.com/watch?v=DuSURHrZG6I> - Jak przeglądarka wyświetla
     stronę internetową?
-* <https://vimeo.com/44182484> - Jak przeglądarka renderuje stronę?
 
 ## 📜 Dokumentacje nieoficjalne
 
@@ -31,6 +30,7 @@ JavaScript
 JSON
 
 * <http://jsonlint.com/>
+* <https://jsonblob.com/>
 
 Markdown
 
@@ -51,7 +51,7 @@ Markdown
 * <http://css3pie.com/>
 * <https://mediaqueri.es/> - przykłady stron z Media Queries (RWD)
 * <http://css-101.org/> - nauka CSS-ów
-* <https://csslayout.io/patterns/> - Zestaw prawie 100 różnych komponentów
+* <https://csslayout.io/> - Zestaw prawie 100 różnych komponentów
 * <https://pattle.github.io/simpsons-in-css/> — The Simpsons in CSS
 * <https://tachyons.io/>
 
@@ -69,14 +69,14 @@ Markdown
 
 * <https://docs.emmet.io/cheat-sheet/> - lista wszystkich skrótów w Emmet
 * <https://html5demos.com/>
-* <http://html5please.com/>
+* <https://html5please.com/>
 * <https://mcdlr.com/utf-8/> - lista wszystkich encji w UTF-8
 * <https://w3c.github.io/html/links.html> - opis osadzenia favicona
 
 ## 📚 Książki
 
 * <https://eloquentjavascript.net/>
-* <https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md>
+* <https://github.com/vhf/free-programming-books/>
 * <https://it-ebooks.info/>
 * <https://jsbooks.revolunet.com/>
 * <https://leanpub.com/>
@@ -101,7 +101,6 @@ Płatne
 * <https://code.tutsplus.com/categories/javascript/courses>
 * <https://frontendmasters.com/>
 * <https://teamtreehouse.com/>
-* <https://www.lynda.com/>
 * <https://www.codeavengers.com/>
 * <https://www.codecademy.com/learn/introduction-to-javascript>
 * <https://www.pluralsight.com/paths/javascript>
@@ -126,11 +125,6 @@ Wskazówki
 * <http://perfectionkills.com/>
 * <https://github.com/loverajoel/jstips>
 * <http://superherojs.com/>
-* <https://www.thinkful.com/learn/javascript-best-practices-1/Stick-to-a-Strict-Coding-Style>
-
-Zagadki
-
-* <https://javascript-puzzlers.herokuapp.com/>
 
 ## 🎥 Wideo / Kanały na YouTube
 
@@ -185,14 +179,13 @@ Różne
 
 ### 🇵🇱 Blogi: Polskie
 
-* <http://ach-te-internety.pl/>
+* <https://ach-te-internety.pl/>
 * <https://bd90.pl/>
 * <https://bedekodzic.pl/>
 * <https://blog.comandeer.pl/>
 * <https://blog.piotrnalepa.pl/>
 * <https://blog.robertorlinski.pl/>
 * <https://cezarywalenciuk.pl/>
-* <https://dawidrylko.com/>
 * <https://devinspe.blogspot.com/>
 * <https://kamilmysliwiec.com/>
 * <https://kamilrogala.it/>
@@ -206,7 +199,6 @@ Różne
 * <https://www.angular.love/>
 * <https://www.czterytygodnie.pl/>
 * <https://www.idaszak.com/>
-* <https://www.induweb.pl/blog/>
 * <https://www.nafrontendzie.pl/>
 * <https://www.webkrytyk.pl/>
 
@@ -229,11 +221,11 @@ Różne
 * <https://github.com/piecioshka/warto-wiedziec>
 * <https://polskifrontend.pl/>
 * <https://devcorner.pl/>
-* <https://shebang.pl/>
+* <http://shebang.pl/>
 
 ### 🇺🇸 Agregaty źródeł: Angielskie
 
-* <http://fredsarmento.me/frontend-tools/>
+* <http://fredsarmento.me/>
 * <https://gist.github.com/tonymtz/3c11d75fa7ba7e682355>
 * <https://github.com/funzeye/dev-bookmarks>
 * <https://movethewebforward.org/>
@@ -301,7 +293,7 @@ Lista kolorów
 
 Pickery
 
-* <http://color.adobe.com/pl/>
+* <https://color.adobe.com/pl/>
 * <https://paletton.com/>
 * <https://htmlcolorcodes.com/>
 
@@ -385,27 +377,12 @@ Tworzenie favicon
         - ładne obrazki w tle
         - ustawienie kolorów: tła i tekstu
         - zdefiniowanie prezentowanego tekstu
-* <https://lorempixel.com/>
-    + przykład:
-        - <https://lorempixel.com/400/200/>
-        - <https://lorempixel.com/400/200/abstract/DOWOLNY>
-    + cechy:
-        - **brak prezentacja rozdzielczości**
-        - **po części działa po HTTPS**
-        - można dodawać swój tekst
 * <http://placeskull.com/>
     + przykład:
         - <http://placeskull.com/400/200>
     + cechy:
         - **nie działa po HTTPS**
         - prezentacja zdjęcia z czaszką
-* <https://placebear.com/>
-    + przykład:
-        - <https://placebear.com/400/200>
-    + cechy:
-        - działa po HTTPS
-        - prezentacja zdjęcia z niedźwiedziem
-        - brak prezentacji rozdzielczości
 * <https://baconmockup.com/>
     + przykład:
         - <https://baconmockup.com/400/200/>
@@ -431,8 +408,6 @@ Tworzenie favicon
 * <https://freepsdfiles.net/>
 * <https://www.freepik.com/free-psd/>
 * <https://begha.deviantart.com/art/Motion-single-page-PSD-web-template-for-free-380143270>
-* <https://www.teehanlax.com/blog/android-2-3-4-gui-psd-high-density/> - szablony
-    layoutów do Androida
 
 ## ℹ️ Pomocne (szablony)
 
@@ -450,10 +425,6 @@ Tworzenie favicon
 * <https://mdn.github.io/canvas-raycaster/> - Quake
 * <https://ondras.github.io/blockout/> - Tetris
 * <https://ondras.zarovi.cz/demos/rubik/> - Kostka Rubika
-
-### 🎧 Muzyka (darmowa)
-
-* <https://www.bfxr.net/>
 
 ## 🔠 Fonty
 
@@ -503,7 +474,6 @@ Tworzenie favicon
 * <https://jsonplaceholder.typicode.com/>
 * <https://reqres.in/>
 * <https://randomuser.me/>
-* <https://jsonblob.com/>
 
 ## 🍹 Efekty
 
@@ -514,11 +484,9 @@ Tworzenie favicon
 * <https://threejs.org/examples/css3d_periodictable.html> - 3D Układ Okresowy
     Mendelejewa
 * <https://zenphoton.com/>
-* <http://www.craftymind.com/factory/html5video/CanvasVideo.html>
 * <https://tympanus.net/Tutorials/3DHoverEffects/>
 * <https://tympanus.net/Tutorials/OriginalHoverEffects/index4.html>
 * <http://www.lutanho.net/svgvml3d/platonic.html>
-* <https://paulrhayes.com/experiments/cube-3d/> - 3D Sześcian
 * <https://viliusle.github.io/miniPaint/> - Rysowanie (Paint)
 * <https://mrdoob.com/projects/harmony/> - Rysowanie
 * <https://galactic.ink/sketchpad/> - Rysowanie
@@ -547,11 +515,8 @@ Tworzenie favicon
 * <https://github.com/piecioshka/Moj_Stary_to_Fanatyk_JS>
 * <https://webhook.site/>
 * <https://andreasbm.github.io/web-skills/>
-* <https://leksykonprogramisty.pl/>
 * <https://devfacts.io/>
 * <https://httptoolkit.tech/will-it-cors/>
 * <https://htmldom.dev/>
 * <https://1loc.dev/>
-* <https://nextjstips.com/>
 * <https://dev.kasiaizak.pl/>
-* <https://nodesign.dev/>
