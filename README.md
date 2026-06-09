@@ -351,6 +351,7 @@ Tworzenie favicon
     + przykład:
         - <https://via.placeholder.com/400x200>
     + cechy:
+        - **⚠️ serwis nie działa — następca: <https://placehold.co/>**
         - prezentacja rozdzielczości
         - szare tło
         - ustawienie kolorów: tła i tekstu
@@ -360,6 +361,7 @@ Tworzenie favicon
         - <https://fakeimg.pl/400x200/>
         - <https://fakeimg.pl/400x200/ff0000/fff/?text=DOWOLNY&font=lobster>
     + cechy:
+        - **⚠️ często blokowany przez Cloudflare (403) przy hotlinkowaniu z obcych origin**
         - prezentacja rozdzielczości
         - ustawienie kolorów: tła i tekstu
         - zdefiniowanie prezentowanego tekstu
@@ -393,11 +395,13 @@ Tworzenie favicon
     + przykład:
         - <https://placekitten.com/g/400/200>
     + cechy:
-        - **często nie działa**
+        - **⚠️ serwis wyłączony (2024) — alternatywa: <https://picsum.photos/>**
         - prezentacja zdjęcia z kotem
 * <https://unsplash.it/>
     + przykład:
         - <https://unsplash.it/400/200>
+    + cechy:
+        - **⚠️ przekierowuje do <https://picsum.photos/> (dawna domena Lorem Picsum)**
 * <https://visualhunt.com/>
     + cechy:
         - bardziej do pobierania obrazów, niż jako placeholder
