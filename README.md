@@ -347,11 +347,10 @@ Tworzenie favicon
         - działa po HTTPS
         - prezentacja rozdzielczości
         - zdefiniowanie prezentowanego tekstu
-* <https://placeholder.com/>
+* <https://placehold.co/>
     + przykład:
-        - <https://via.placeholder.com/400x200>
+        - <https://placehold.co/400x200>
     + cechy:
-        - **⚠️ serwis nie działa — następca: <https://placehold.co/>**
         - prezentacja rozdzielczości
         - szare tło
         - ustawienie kolorów: tła i tekstu
@@ -391,17 +390,12 @@ Tworzenie favicon
     + cechy:
         - działa po HTTPS
         - prezentacja zdjęcia z bekonem
-* <https://placekitten.com/>
+* <https://picsum.photos/>
     + przykład:
-        - <https://placekitten.com/g/400/200>
+        - <https://picsum.photos/400/200>
     + cechy:
-        - **⚠️ serwis wyłączony (2024) — alternatywa: <https://picsum.photos/>**
-        - prezentacja zdjęcia z kotem
-* <https://unsplash.it/>
-    + przykład:
-        - <https://unsplash.it/400/200>
-    + cechy:
-        - **⚠️ przekierowuje do <https://picsum.photos/> (dawna domena Lorem Picsum)**
+        - prezentacja losowych zdjęć
+        - prezentacja rozdzielczości
 * <https://visualhunt.com/>
     + cechy:
         - bardziej do pobierania obrazów, niż jako placeholder
