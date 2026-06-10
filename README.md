@@ -361,7 +361,7 @@ Tworzenie favicon
         - <https://fakeimg.pl/400x200/>
         - <https://fakeimg.pl/400x200/ff0000/fff/?text=DOWOLNY&font=lobster>
     + cechy:
-        - **⚠️ często blokowany przez Cloudflare (403) przy hotlinkowaniu z obcych origin**
+        - **⚠️ często blokowany przez Cloudflare (403) przy hotlinkowaniu z innych domen**
         - prezentacja rozdzielczości
         - ustawienie kolorów: tła i tekstu
         - zdefiniowanie prezentowanego tekstu
