@@ -347,9 +347,9 @@ Tworzenie favicon
         - działa po HTTPS
         - prezentacja rozdzielczości
         - zdefiniowanie prezentowanego tekstu
-* <https://placeholder.com/>
+* <https://placehold.co/>
     + przykład:
-        - <https://via.placeholder.com/400x200>
+        - <https://placehold.co/400x200>
     + cechy:
         - prezentacja rozdzielczości
         - szare tło
@@ -360,6 +360,7 @@ Tworzenie favicon
         - <https://fakeimg.pl/400x200/>
         - <https://fakeimg.pl/400x200/ff0000/fff/?text=DOWOLNY&font=lobster>
     + cechy:
+        - **⚠️ często blokowany przez Cloudflare (403) przy hotlinkowaniu z innych domen**
         - prezentacja rozdzielczości
         - ustawienie kolorów: tła i tekstu
         - zdefiniowanie prezentowanego tekstu
@@ -389,15 +390,12 @@ Tworzenie favicon
     + cechy:
         - działa po HTTPS
         - prezentacja zdjęcia z bekonem
-* <https://placekitten.com/>
+* <https://picsum.photos/>
     + przykład:
-        - <https://placekitten.com/g/400/200>
+        - <https://picsum.photos/400/200>
     + cechy:
-        - **często nie działa**
-        - prezentacja zdjęcia z kotem
-* <https://unsplash.it/>
-    + przykład:
-        - <https://unsplash.it/400/200>
+        - prezentacja losowych zdjęć
+        - prezentacja rozdzielczości
 * <https://visualhunt.com/>
     + cechy:
         - bardziej do pobierania obrazów, niż jako placeholder
