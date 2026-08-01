@@ -432,6 +432,7 @@ Tworzenie favicon
 * <https://fontpair.co/> - Wybiera fonty pasujące do siebie
 * <https://www.myfonts.com/WhatTheFont/> - Identyfikuje fonty na obrazku
 * <https://www.fontsquirrel.com/matcherator> - Identyfikuje fonty na obrazku
+* <https://whatfontfinder.com/font-identifier/> - Identyfikuje fonty na obrazku, w całości w przeglądarce
 * <http://getfound.pl/102-darmowe-fonty-z-polskimi-znakami/>
 
 ## ✏️ Edytory
